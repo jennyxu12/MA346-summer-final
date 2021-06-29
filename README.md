@@ -1,9 +1,9 @@
 # MA346-summer-final
 Final Project by Yajie Xu and Cheryl Xiong
 ## Description
-The goal of this project is to perform data analysis to investigate the factors that could potentially raise the possibility of police shooting in the US. Additionally, we also take a close look at whether discriminatory police shooting, one of the recent biggest social issue, actually exists in the US. The variables we dig into include state, city, gender, age, armed, signs of mental illness and race. 
-Link for Deepnote: https://deepnote.com/@yajie-xu/Final-Project-v733C8atR-SabacCrB02Xg
-Link for the Report: https://docs.google.com/document/d/1Tl24IL6JP08-1rLBMSO5MJECmrOfPOP0j49_xVKxjQ8/edit
+The goal of this project is to perform data analysis to investigate the factors that could potentially raise the possibility of police shooting in the US. Additionally, we also take a close look at whether discriminatory police shooting, one of the recent biggest social issue, actually exists in the US. The variables we dig into include state, city, gender, age, armed, signs of mental illness and race. <br/>
+Link for Deepnote: https://deepnote.com/@yajie-xu/Final-Project-v733C8atR-SabacCrB02Xg <br/>
+Link for the Report: https://docs.google.com/document/d/1Tl24IL6JP08-1rLBMSO5MJECmrOfPOP0j49_xVKxjQ8/edit <br/>
 Link for the Dashboard: https://police-shooting.herokuapp.com/ 
 ## Demo
 <img width="629" alt="Screen Shot 2021-06-28 at 1 15 40 AM" src="https://user-images.githubusercontent.com/55515436/123583878-5f6a1080-d7ae-11eb-88e8-27ad8cbc560f.png">
